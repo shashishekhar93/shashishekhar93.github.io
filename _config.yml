@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Shashi Shekhar's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Shashi Shekhar — Mobile Engineer"
+description: "Portfolio of Shashi Shekhar, a mobile engineer with 4+ years of experience building Android applications, iOS experiences, and React Native products."
+url: "https://shashishekhar93.github.io"
+baseurl: ""
+author:
+  name: "Shashi Shekhar"
+  email: "p.shekharmishra93@gmail.com"
+  phone: "+91 7398334112"
+  github: "https://github.com/shashishekhar93"
+  linkedin: "https://www.linkedin.com/in/shashi-shekhar-m-150565bb"
+plugins: []
+exclude:
+  - README.md
